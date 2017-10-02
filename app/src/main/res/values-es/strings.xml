@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check">Comprueba</string>
+    <string name="question">Pregunta</string>
+    <array name="answers">
+        <item>Copenhague</item>
+        <item>Oslo</item>
+        <item>Helsinki</item>
+        <item>Ninguna de las anteriores</item>
+    </array>
+    <string name="correct_ans">Respuesta correcta !</string>
+    <string name="incorrect_ans">Respuesta incorrecta :(</string>
+    <string name="no_ans">Selecciona una respuesta</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Acabar</string>
+    <string name="prev">Anterior</string>
+</resources>
