@@ -10,7 +10,7 @@
     <string name="prev">Previous</string>
 
     <array name="all_questions">
-        <item>What is the capital of Denmark ?;*Copenhagen;Helsinki;Oslo;None of the previous</item>
+        <item>Whaat is the capital of Denmark ?;*Copenhagen;Helsinki;Oslo;None of the previous</item>
         <item>How many minutes are there in a year ?;410867;755920;*525600;None of the previous</item>
         <item>Which is the longest river in the world ?;Nile;*Amazonas;Yangtsé;None of the previous</item>
     </array>
