@@ -14,4 +14,9 @@
     <string name="next">Següent</string>
     <string name="finish">Finalitzar</string>
     <string name="prev">Anterior</string>
+    <array name="all_questions">
+        <item>Quina és la capital de Dinamarca ?;*Copenhagen;Helsinki;Oslo;Cap de les anteriors</item>
+        <item>Quants minuts té un any ?;410867;755920;*525600;Cap de les anteriors</item>
+        <item>Quin és el riu més llarg del món ?;Nil;*Amazonas;Yangtsé;Cap de les anteriors</item>
+    </array>
 </resources>
